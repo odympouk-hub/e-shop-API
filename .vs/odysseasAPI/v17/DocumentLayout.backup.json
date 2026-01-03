@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userControllers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\userControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\userControllers.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\userControllers.cs",
+              "RelativeToolTip": "Controllers\\userControllers.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:03:37.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
