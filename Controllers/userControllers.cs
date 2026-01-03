@@ -58,7 +58,6 @@ namespace odysseasAPI.Controllers
 
             return Ok(user);
         }
-
         [HttpPatch]
         public async Task<ActionResult<User>> UptadeUser(User user)
         {
