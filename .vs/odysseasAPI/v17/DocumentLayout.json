@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\models\\User.cs",
+              "RelativeDocumentMoniker": "models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\models\\User.cs",
+              "RelativeToolTip": "models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:59:04.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:42:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "userControllers.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\userControllers.cs",
               "RelativeDocumentMoniker": "Controllers\\userControllers.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\userControllers.cs",
               "RelativeToolTip": "Controllers\\userControllers.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwEAAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T17:03:37.767Z",
               "EditorCaption": ""

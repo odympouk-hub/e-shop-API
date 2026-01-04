@@ -17,11 +17,21 @@ builder.Services.AddDbContext<ÏdysseasDatabasecontext>(options =>
 
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowWebsite", policy =>
+    policy.WithOrigins(
+        "http://localhost:4200")
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+    .AllowCredentials()
+    );
 
+});
 
 
 var app = builder.Build();
-
+app.UseCors("AllowWebsite");
 
 if (app.Environment.IsDevelopment())
 {

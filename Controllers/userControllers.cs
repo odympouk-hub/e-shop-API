@@ -18,14 +18,14 @@ namespace odysseasAPI.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<User>> GetUser(int id)
+        public async Task<ActionResult<User>> GetUser(string username,string password)
         {
-            var user = await _dbContext.Odysseas_Users.FindAsync(id);
+            var user = await _dbContext.Odysseas_Users.AnyAsync(x => x.Username==username&& x.Password==password);
 
-            if (user == null)
+            if (!user )
                 return NotFound();
 
-            return Ok(user);
+            return Ok();
         }
 
         [HttpPost]

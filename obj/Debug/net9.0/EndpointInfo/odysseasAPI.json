@@ -12,11 +12,17 @@
         ],
         "parameters": [
           {
-            "name": "id",
+            "name": "username",
             "in": "query",
             "schema": {
-              "type": "integer",
-              "format": "int32"
+              "type": "string"
+            }
+          },
+          {
+            "name": "password",
+            "in": "query",
+            "schema": {
+              "type": "string"
             }
           }
         ],
