@@ -29,14 +29,9 @@ namespace odysseasAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<User>> CreateUser(string username, string password, int? age)
+        public async Task<ActionResult<User>> CreateUser(User user)
         {
-            User user = new User
-            {
-                Username = username,
-                Password = password,
-                Age = age
-            };
+         
 
             _dbContext.Odysseas_Users.Add(user);
             await _dbContext.SaveChangesAsync();
@@ -62,7 +57,7 @@ namespace odysseasAPI.Controllers
         [HttpPatch]
         public async Task<ActionResult<User>> UptadeUser(User user)
         {
-            _dbContext.Entry(user).State = EntityState.Modified;
+             _dbContext.Entry(user).State = EntityState.Modified;
             await _dbContext.SaveChangesAsync();
             return Ok(user);
         }

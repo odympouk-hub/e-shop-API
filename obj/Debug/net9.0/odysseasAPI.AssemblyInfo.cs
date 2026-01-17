@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("odysseasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7804d63389515301d584d54d050eb25c867b949c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+544a34193d4f40fa7149f7817f9ae1b12b5b39bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("odysseasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("odysseasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

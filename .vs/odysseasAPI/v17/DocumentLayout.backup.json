@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\odysseasdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:odysseasdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|c:\\users\\user\\documents\\api ody\\api\\odysseasapi\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE5DEA8-E159-4198-BFBC-C91D94DEA0C9}|odysseasAPI.csproj|solutionrelative:controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\models\\User.cs",
+              "RelativeDocumentMoniker": "models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\models\\User.cs",
+              "RelativeToolTip": "models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:59:04.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:443056701:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "odysseasDatabasecontext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\odysseasDatabasecontext.cs",
+              "RelativeDocumentMoniker": "odysseasDatabasecontext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\odysseasDatabasecontext.cs",
+              "RelativeToolTip": "odysseasDatabasecontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:33:02.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\models\\Product.cs",
+              "RelativeDocumentMoniker": "models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\models\\Product.cs",
+              "RelativeToolTip": "models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:18:56.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T17:42:57.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T17:42:57.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ProductControllers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\ProductControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductControllers.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\ProductControllers.cs",
+              "RelativeToolTip": "Controllers\\ProductControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:25:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "userControllers.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\userControllers.cs",
               "RelativeDocumentMoniker": "Controllers\\userControllers.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\API ODY\\API\\odysseasAPI\\Controllers\\userControllers.cs",
               "RelativeToolTip": "Controllers\\userControllers.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:03:37.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:03:37.767Z"
             }
           ]
         }

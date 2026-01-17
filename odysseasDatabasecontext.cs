@@ -12,8 +12,13 @@ namespace odysseasAPI
 
         }
         public DbSet<User> Odysseas_Users {  get; set; }
-            
+        public DbSet<Product> Products {  get; set; }   
 
 
     }
+
+    
+
+
+
 }
